@@ -5,7 +5,9 @@
 
 Merging [National Weather Service radar images](https://radar.weather.gov/), [Stamen Toner maps](http://maps.stamen.com/toner/#12/37.7706/-122.3782), and [OpenWeather data](https://openweathermap.org/), the Weather Radar! is a Raspberry Pi and Blinka powered weather radar viewer housed in a funky analog meter case I found in the shed!
 
-You can find out more on [Hackaday!](https://hackaday.io/project/176547-weather-pi-dar)
+You can find out more about the project on [Hackaday!](https://hackaday.io/project/176547-weather-radar)
+
+![Image of the Weather Radar!](https://cdn.hackaday.io/images/resize/600x600/2169341611805539650.JPG)
 
 
 ### Methodology:
