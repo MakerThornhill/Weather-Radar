@@ -242,7 +242,7 @@ EXCEPTION = "application/vnd.ogc.se_inimage"
 # Fonts!
 ################################################
 
-fnt_medium = ImageFont.truetype(f"{CURR_DIR}HelveticaNeue.ttc", 15)
+fnt_medium = ImageFont.truetype(f"{CURR_DIR}HelveticaNeue.ttf", 15)
 fnt_goth = ImageFont.truetype(f"{CURR_DIR}CenturyGothic.ttf", 20)
 fnt_goth_bold = ImageFont.truetype(f"{CURR_DIR}CenturyGothic-Bold.ttf", 20)
 fnt_goth_medium = ImageFont.truetype(f"{CURR_DIR}CenturyGothic.ttf", 15)
